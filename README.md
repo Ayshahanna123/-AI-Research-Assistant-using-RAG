@@ -3,12 +3,6 @@
 ## Project Topic
 AI Research Assistant using RAG
 
-## Student Details
-
-**Full Name:** Aysha hanna k
-
-**Registered Email ID:** ayshahanna900@gmail.com
-
 ## Description
 
 This project is an AI Research Assistant that allows users
